@@ -25,8 +25,8 @@ Darshwana
 
 ## Screenshot of my Resume
 
-<img width="1891" height="907" alt="Screenshot 2026-05-27 122150" src="resume.png" />
-<img width="auto" height="auto" alt="Screenshot 2026-05-27 122150" src="resume2.png" />
+<img width="1891" height="907" alt="Screenshot 2026-05-27 122150" src="res.png" />
+<img width="auto" height="auto" alt="Screenshot 2026-05-27 122150" src="res1.png" />
 
 
 # Product Landing Page
