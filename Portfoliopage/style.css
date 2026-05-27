@@ -1,0 +1,62 @@
+.block1{
+    background: rgb(162, 250, 124);
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 48px;
+    width: 1050px;
+    border-radius: 10px;
+}
+.block12{
+    background: rgb(162, 250, 124);
+    position: absolute;
+    left: 1120px;
+    top: 9px;
+    height: 287px;
+    width: 290px;
+    border-radius: 10px;
+    padding-left: 100px;
+}
+.mycontainer{
+    padding-top: 75px;
+}
+.image{
+    padding-left: 100px;
+}
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:43%;  
+  float:left;
+}
+.img{
+  border-radius: 50px;
+  height: 350px;
+  width: 350px;
+}
+.button1{
+    text-decoration: none;
+    background-color: rgb(247, 253, 245);
+    color: rgb(5, 5, 5);
+    font-size: 22px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.button1:hover{
+    background-color: rgb(255, 255, 255);
+    font-size: 24px;
+}
+.button2{
+    text-decoration: none;
+    background-color: rgb(135, 236, 91);
+    color: white;
+    font-size: 22px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.button2:hover{
+    background-color: rgb(119, 216, 78);
+    font-size: 24px;
+    text-decoration: none;
+}
