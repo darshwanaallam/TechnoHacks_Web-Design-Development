@@ -1,0 +1,139 @@
+.mainblock{
+    background: linear-gradient(rgb(250, 217, 150), rgb(248, 162, 136));
+    height: 750px;
+    width: auto;
+    margin: auto;
+}
+ .head{
+    padding-top: 30px;
+    padding-left: 980px;
+ }
+.button{
+    font-size: 20px;
+}
+.b1{
+    width: 500px;
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+div.body{
+    width: 100%;
+    overflow: auto;
+}
+
+div.body div{
+    width: 33%;
+    float: left;
+    padding-top: 80px;
+    padding-left: 150px;
+    padding-right: 100px;
+}
+.image{
+    border-radius: 2rem;
+    border-style: double;
+    border-color: rgb(216, 60, 12);
+}
+.mainblock2{
+    background: linear-gradient(rgb(250, 217, 150), rgb(248, 162, 136));
+    height: 750px;
+    width: auto;
+    margin: auto;
+}
+
+
+.text{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.buttonw{
+    position: absolute;
+    top: 3rem;
+    right: 3rem;
+    font-size: 20px;
+}
+.buttonh{
+    position: absolute;
+    top: 3rem;
+    right: 10rem;
+    font-size: 20px;
+}
+
+.braclet{
+    position: absolute;
+    top: 10rem;
+    left: 10rem;
+    height: 300px;
+    border-radius: 50%;
+    border-style: double;
+    border-color: rgb(216, 60, 12);
+}
+.chain{
+    position: absolute;
+    top: 10rem;
+    right: 10rem;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border-style: double;
+    border-color: rgb(216, 60, 12);
+}
+.ring{
+    position: absolute;
+    top: 25rem;
+    left: 38rem;
+    height: 300px;
+    width: 280px;
+    border-radius: 50%;
+    border-style: double;
+    border-color: rgb(216, 60, 12);
+}
+.bracletb{
+    font-size: 25px;
+    color: rgb(216, 60, 12);
+    background: rgb(252, 225, 137);
+    border-color: rgb(216, 60, 12);
+    border-radius: 1.5rem;
+    position: absolute;
+    top: 28rem;
+    left: 13.5rem;
+    width: 200px;
+}
+.chainb{
+    font-size: 25px;
+    color: rgb(216, 60, 12);
+    background: rgb(252, 225, 137);
+    border-color: rgb(216, 60, 12);
+    border-radius: 1.5rem;
+    position: absolute;
+    top: 28rem;
+    right: 13.5rem;
+    width: 200px;
+}
+.ringb{
+    font-size: 25px;
+    color: rgb(216, 60, 12);
+    background: rgb(252, 225, 137);
+    border-color: rgb(216, 60, 12);
+    border-radius: 1.5rem;
+    position: absolute;
+    top: 43rem;
+    left: 40.5rem;
+    width: 200px;
+}
+.bracletb:hover{
+    background: rgb(252, 217, 102);
+    font-size: 28px;
+}
+.chainb:hover{
+    background: rgb(252, 217, 102);
+    font-size: 28px;
+}
+.ringb:hover{
+    background: rgb(252, 217, 102);
+    font-size: 28px;
+}
