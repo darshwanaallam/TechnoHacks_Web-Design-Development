@@ -54,6 +54,8 @@ Darshwana
 
 <img width="auto" height="auto" alt="Screenshot" src="silkworks.png" />
 
+## Screenshot of Collections page
+
 <img width="auto" height="auto" alt="Screenshot" src="collections.png" />
 
 
